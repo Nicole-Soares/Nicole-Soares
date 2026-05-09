@@ -1,8 +1,7 @@
-
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1328573323986341972/1502058540829905119/Copilot_20260507_172019.png?ex=69fe5487&is=69fd0307&hm=4820df7f3650ca2dc6ba01966ea91dabc33c349a7e5f6f92593bbfcfcfd8f39a&" alt="Pixel art banner" />
-<img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" />
-  
+<img width="480" height="480" alt="Emoji Sticker by BREAD TREE (1)" src="https://github.com/user-attachments/assets/3e73bd63-3df2-4546-9cdd-838d1763a089" style="width: 70px;" />
+
 # 🌸 **Nicole Soares** 🌸
 <picture><img src="https://github.com/user-attachments/assets/3f7f2a8c-bdfe-46b8-ac2c-018f9f97e1b0" width=40px alt="gato"/></picture> Desarrolladora Frontend | Backend ·
 
@@ -48,11 +47,7 @@
 
 ## 📜 Proyectos destacados
 
-### **Agape Web**
-El proyecto se centra en una clínica que ofrece consultas médicas especializadas en diversas áreas, con un fuerte énfasis en la promoción de la salud holística y el bienestar general de sus pacientes.
 
-### **Lector Bíblico**
-Una plataforma minimalista para la lectura de la Santa Biblia, con una estética inspirada en manuscritos antiguos.
 
 ---
 
