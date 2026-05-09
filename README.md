@@ -1,82 +1,69 @@
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=FC92FA&width=370&height=100&lines=Hi+%2C+I'm+Nicole+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</p>
-<picture><img src="https://github.com/user-attachments/assets/3f7f2a8c-bdfe-46b8-ac2c-018f9f97e1b0" width=40px alt="gato"/></picture> About me
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
- <p align="left">
-  <img src="https://img.shields.io/badge/Backend%20Development-dodgerblue" />
-   <img src="https://img.shields.io/badge/Frontend%20Development-dodgerblue" />
-</p>
-
-I am a passionate software developer with expertise in React JS & Native, Next JS, Express JS, JavaScript, Node JS, SQL, Mongo DB, Neo4j. I love building innovative solutions and contributing to the ever-evolving world of technology.
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-<p align="center">
-
-- **Languages**:
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-          
-  
-- **Frameworks and libraries**:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40" alt="NodeJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"  width="40" height="40" alt="NextJS" />
-          
-
-- **Database**:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgresql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="Mongo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" alt="Neo4j"/>
-          
-- **Softwares and Tools**:
-
-  <img src="https://user-images.githubusercontent.com/64439609/212556685-de9a7c04-31b0-43b6-af39-7c82ac13b321.png" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="Gitlab" />
-  <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Github"/>
-  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VisualStudio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="40" alt="Intellij"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"  width="40" height="40" alt="AndroidStudio"/>
-
-<br>
-</p>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
+<img src="https://cdn.discordapp.com/attachments/1328573323986341972/1502058540829905119/Copilot_20260507_172019.png?ex=69fe5487&is=69fd0307&hm=4820df7f3650ca2dc6ba01966ea91dabc33c349a7e5f6f92593bbfcfcfd8f39a&" alt="Pixel art banner" />
+<img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" />
+  
+# 🌸 **Nicole Soares** 🌸
+<picture><img src="https://github.com/user-attachments/assets/3f7f2a8c-bdfe-46b8-ac2c-018f9f97e1b0" width=40px alt="gato"/></picture> Desarrolladora Frontend | Backend ·
 
-![](https://github-readme-stats.vercel.app/api?username=Nicole-Soares&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Soares&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-	
-</a>
+<img src="https://img.shields.io/badge/Frontend-React%20%2F%20JavaScript%20%2F%20Vite-f7dce5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Java%20%2F%20Spring Boot%20%2F%20Node-f7dce5?style=for-the-badge" />
+
 </div>
 
------
+<div>
 
-<h3 align="center" >Connect with me 🤝 </h3>
+#### Mi stack actualmente:
+![Java](https://img.shields.io/badge/Java-F9CBD6?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2AFBC?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-F2E0D2?style=for-the-badge&logo=csharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-F9CBD6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F2AFBC?style=for-the-badge&logo=express&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-F2AFBC?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F2E0D2?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-F2E0D2?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-F9CBD6?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F9CBD6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F2AFBC?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-F2E0D2?style=for-the-badge&logo=vite&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-F9CBD6?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-F2AFBC?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F9CBD6?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F2AFBC?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F9CBD6?style=for-the-badge&logo=canva&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F9CBD6?style=for-the-badge&logo=javascript&logoColor=white)
+</div>
 
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a   target="_blank" href="https://linkedin.com/in/soaresnicole">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nicole-Soares">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-           <a style="margin-left: 10px;" target="_blank"  href="mailto:soaresnicole052@gmail.com">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
-      </div>
+---
 
-</p>
+## 🌿 Sobre mí
+
+- 💻 Full Stack Developer 
+- 🎓 Estudiante de la Tecnicatura en Informática en la UNQ
+- ⚡ Interesada en sistemas distribuidos, backend y arquitecturas escalables
+
+
+---
+
+## 📜 Proyectos destacados
+
+### **Agape Web**
+El proyecto se centra en una clínica que ofrece consultas médicas especializadas en diversas áreas, con un fuerte énfasis en la promoción de la salud holística y el bienestar general de sus pacientes.
+
+### **Lector Bíblico**
+Una plataforma minimalista para la lectura de la Santa Biblia, con una estética inspirada en manuscritos antiguos.
+
+---
+
+## 📩 Contacto
+- **LinkedIn:** https://linkedin.com/in/soaresnicole
+- **Correo:** nicolesoares918@gmail.com
+- **GitHub:** https://github.com/Nicole-Soares
+- **Portfolio:** https://nicolesoares.vercel.app/
+
+---
+
+<div align="center" margin="10px">  
+✨ *Gracias por visitar mi perfil* ✨ 
 </div>
